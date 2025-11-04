@@ -16,5 +16,6 @@ Credits
 
 - MidnightLab (myself lol) = Artwork
   
-- war-dog = Voice of Hikaseru 
+- war-dog = Voice of Hikaseru
+- RedLadyJJ = Voice of Skaliki
 - Kart Krew Dev = For the kart base sprites and creating Dr. Robotnik's Ring Racers
