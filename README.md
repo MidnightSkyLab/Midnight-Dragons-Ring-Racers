@@ -11,8 +11,15 @@ Rivals: [Skaliki, Tuki, Dracelia]
 Stats: [Speed 3, Weight 8]
 Rivals: [Hikaseru, Fleur, Rappy]
 
-Credits
+# Updates
 
+Version 1.1
+- New voice lines provided by RedLadyJJ. Thanks a lot!
+
+Version 1.0
+- Initial release
+
+# Credits
 
 - MidnightLab (myself lol) = Artwork
   
